@@ -1,0 +1,24 @@
+/* helvetica font */
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica.eot');
+    src: url('../fonts/Helvetica.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Helvetica.woff2') format('woff2'),
+        url('../fonts/Helvetica.woff') format('woff'),
+        url('../fonts/Helvetica.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/* acumin pro font */
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('../fonts/AcuminPro-Bold.eot');
+    src: url('../fonts/AcuminPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcuminPro-Bold.woff2') format('woff2'),
+        url('../fonts/AcuminPro-Bold.woff') format('woff'),
+        url('../fonts/AcuminPro-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+}
+
